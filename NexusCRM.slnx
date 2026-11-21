@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NexusCRM.Api/NexusCRM.Api.csproj" />
+    <Project Path="src/NexusCRM.Application/NexusCRM.Application.csproj" />
+    <Project Path="src/NexusCRM.Domain/NexusCRM.Domain.csproj" />
+    <Project Path="src/NexusCRM.Infrastructure/NexusCRM.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NexusCRM.IntegrationTests/NexusCRM.IntegrationTests.csproj" />
+    <Project Path="tests/NexusCRM.UnitTests/NexusCRM.UnitTests.csproj" />
+  </Folder>
+</Solution>
